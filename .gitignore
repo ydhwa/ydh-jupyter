@@ -1,0 +1,14 @@
+# files for the dex VM
+*.dex
+# Java class files
+*.class
+# generated files
+bin/
+gen/
+# IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+# Python Jupyter checkpoint
+*/.ipynb_checkpoints/
